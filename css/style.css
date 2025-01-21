@@ -1,0 +1,23 @@
+/*Fonts*/
+
+h1 {
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+    color: #647a87;
+}
+
+h2 {
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    margin-bottom: 2px;
+    color:black;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 1px;
+    color:black;
+}
